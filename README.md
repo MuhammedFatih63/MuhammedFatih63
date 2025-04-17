@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedfatih63&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedfatih63" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedfatih63" alt="muhammedfatih63" /></a> </p>
-
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammedfatihiğrek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedfatihiğrek" height="30" width="40" /></a>
